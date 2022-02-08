@@ -1,6 +1,6 @@
 {
-	"author": "Tanay Tapanshu",
 	"name": "fcc-learn-npm-package-json",
+	"author": "Tanay Tapanshu",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
